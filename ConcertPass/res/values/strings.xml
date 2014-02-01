@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ConcertPass</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="commence_geofencing">Commence Geofencing</string>
+    <string name="settingsimage">settingsImage</string>
+    <string name="register_here">register here</string>
+    <string name="_concertpass">"        ConcertPass"</string>
+    <string name="log_in">Log In</string>
+    <string name="title_activity_history">HistoryActivity</string>
+
+</resources>
